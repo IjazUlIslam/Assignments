@@ -2,3 +2,5 @@
 #      Sample List : ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
 #      Expected Output : ['Green', 'White', 'Black']
 
+sample_list = ["Apple", "Orange", "Graphs", "Banana", "Mango", "peach"]
+print(sample_list)
